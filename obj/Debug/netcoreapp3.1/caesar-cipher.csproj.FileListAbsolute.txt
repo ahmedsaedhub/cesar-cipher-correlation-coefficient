@@ -1,0 +1,12 @@
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/bin/Debug/netcoreapp3.1/caesar-cipher.deps.json
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/bin/Debug/netcoreapp3.1/caesar-cipher.runtimeconfig.json
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/bin/Debug/netcoreapp3.1/caesar-cipher.runtimeconfig.dev.json
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/bin/Debug/netcoreapp3.1/caesar-cipher.dll
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/bin/Debug/netcoreapp3.1/caesar-cipher.pdb
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.csprojAssemblyReference.cache
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.csproj.CoreCompileInputs.cache
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.AssemblyInfoInputs.cache
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.AssemblyInfo.cs
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.dll
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.pdb
+/Users/ahmedsaid/Documents/igsr/caesar-cipher/obj/Debug/netcoreapp3.1/caesar-cipher.genruntimeconfig.cache
